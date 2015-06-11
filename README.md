@@ -1,4 +1,8 @@
-## Introduction
+##This is John Friel's submission for project one for Exploratory Data analysis
+I forked this repo and made changes to the code. I left the readme.md coments the same except for this intro. 
+
+
+##Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
